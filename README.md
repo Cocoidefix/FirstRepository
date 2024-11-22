@@ -5,5 +5,3 @@ Changement 1
 Change 2
 
 Changement 3 Local
-
-Change 5 Before Revert
